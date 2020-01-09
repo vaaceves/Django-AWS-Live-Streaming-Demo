@@ -18,5 +18,6 @@ React
 Lambda
 
 ## Resource
+- [django-chunk-upload-demo](https://github.com/jerinpetergeorge/django-chunk-upload-demo)
 - [React - hls](https://github.com/mingxinstar/react-hls#readme)
 - [Lambda - aws-media-services-simple-vod-workflow](https://github.com/aws-samples/aws-media-services-simple-vod-workflow)
